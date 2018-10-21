@@ -122,13 +122,13 @@ class Backtest:
             plt.xlabel('Time')
             plt.ylabel('Drawback')
             plt.show()
-            print 'Volatility(annualized): ', vol
-            print 'Return(annualized): ', return_
-            print 'Total return:', return_total
-            print 'Sharpe Ratio: ', sharpe
-            print 'Max Drawback: ', maxdrawback
-            print 'Max profit in one day', max_profit
-            print 'Max lose in one day', max_lose
+            print('Volatility(annualized): ', vol)
+            print('Return(annualized): ', return_)
+            print('Total return:', return_total)
+            print('Sharpe Ratio: ', sharpe)
+            print('Max Drawback: ', maxdrawback)
+            print('Max profit in one day', max_profit)
+            print('Max lose in one day', max_lose)
         return data
 
         
