@@ -7,5 +7,3 @@
 **Module 6:** Big Data and Machine Learning  
 **Final Project 1:** CVA Calculation with HJM model  
 **Final Project 2:** Arbitrage Strategy Design and Backtest   
-
-For more infromation, please **email** *quan.yuan@columbia.edu*
